@@ -1,2 +1,1 @@
-# AugustMe.github.io
-my blog
+博客
